@@ -1,0 +1,9 @@
+{
+	"name": "jsradf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "91a36456-6fe7-4345-90d6-ccca4e467cc4",
+		"tenantId": "054bf9b2-11f3-4060-9a8e-0c9b698b1198"
+	}
+}
